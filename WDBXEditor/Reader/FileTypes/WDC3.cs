@@ -10,8 +10,8 @@ using static WDBXEditor.Common.Constants;
 
 namespace WDBXEditor.Reader.FileTypes
 {
-    class WDC3 : WDC2
+    public class WDC3 : WDC1
     {
-
+        public int SectionCount; // 8.2 + is more than 1
     }
 }
