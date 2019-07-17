@@ -12,7 +12,6 @@ namespace WDBXEditor.Reader.FileTypes
 {
 	class WDC2 : WDC1
 	{
-
 		public int SectionCount; // always 1
 		public int Unknown1; // always 0
 		public int Unknown2; // always 0
