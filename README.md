@@ -8,7 +8,7 @@
 
 CI | Build 
 :------------: | :------------: 
-AppVeyor | [![Build status](https://ci.appveyor.com/api/projects/status/y4sp6sijsdvu2v80/branch/master?svg=true)](https://ci.appveyor.com/project/majorcyto/wdbxeditor/branch/master) | 
+AppVeyor | [![Build status](https://ci.appveyor.com/api/projects/status/github/Dokman/WDBXEditor?branch=master&svg=true)](https://ci.appveyor.com/project/Dokman/wdbxeditor/branch/master) | 
 
 
 ### About
